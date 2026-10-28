@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Rambooka
 - 👀 I’m interested in embedded progamming
-- 🌱 I’m currently learning csharp
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me ???
+- 🌱 I know a little csharp and kotlin
 
 <!---
 Rambooka/Rambooka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
